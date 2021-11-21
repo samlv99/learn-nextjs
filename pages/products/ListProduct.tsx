@@ -6,11 +6,7 @@ export interface IAppProps {
 export function App (props: IAppProps) {
   return (
 	<div>
-	  <h1>
-		  <Link>
-			<a href="http">asds</a>
-		  </Link>
-	  </h1>
+	 <h2>hello world</h2>
 	</div>
   );
 }
