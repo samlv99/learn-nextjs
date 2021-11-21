@@ -8,7 +8,7 @@ export function App (props: IAppProps) {
 	<div>
 	  <h1>
 		  <Link>
-			<a href="">asds</a>
+			<a href="http">asds</a>
 		  </Link>
 	  </h1>
 	</div>
