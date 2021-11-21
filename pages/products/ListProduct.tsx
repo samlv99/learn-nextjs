@@ -7,9 +7,7 @@ export function App (props: IAppProps) {
   return (
 	<div>
 	  <h1>
-		  <Link>
-		  	
-		  </Link>
+		  hello
 	  </h1>
 	</div>
   );
